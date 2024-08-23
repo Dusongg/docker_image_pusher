@@ -1,1 +1,4 @@
 golang:1.22
+nginx:latest
+redis:latest
+mysql:8.0
